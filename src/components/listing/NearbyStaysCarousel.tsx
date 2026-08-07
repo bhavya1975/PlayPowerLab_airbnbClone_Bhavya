@@ -48,6 +48,27 @@ const NEARBY_STAYS: NearbyStay[] = [
     rating: 4.95,
     image: 'https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=600&q=80',
   },
+  {
+    id: 's6',
+    title: 'Cozy retreat in the heart of Anjuna',
+    pricePerNight: 18500,
+    rating: 4.88,
+    image: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=600&q=80',
+  },
+  {
+    id: 's7',
+    title: 'Serene Villa near Vagator Beach',
+    pricePerNight: 35000,
+    rating: 4.92,
+    image: 'https://images.unsplash.com/photo-1580587771525-78b9dba3b914?auto=format&fit=crop&w=600&q=80',
+  },
+  {
+    id: 's8',
+    title: 'Modern Loft with private terrace',
+    pricePerNight: 26400,
+    rating: 4.97,
+    image: 'https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=600&q=80',
+  },
 ];
 
 export const NearbyStaysCarousel: React.FC = () => {

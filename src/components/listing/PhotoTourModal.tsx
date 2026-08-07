@@ -360,8 +360,8 @@ export const PhotoTourModal: React.FC<PhotoTourModalProps> = ({
                       idx === 0 ? 'pt-4' : 'pt-16'
                     } pb-12 border-b border-[#DDDDDD] last:border-b-0 scroll-mt-20`}
                   >
-                    {/* ── Left: Sticky Category Title ── */}
-                    <div className="hidden md:block w-[260px] lg:w-[320px] flex-shrink-0 self-stretch">
+                    {/* ── Left: Sticky Category Title (50%) ── */}
+                    <div className="hidden md:block md:w-1/2 flex-shrink-0 self-stretch pr-8">
                       <div className="sticky top-20 pt-2">
                         <h3 className="text-[28px] font-semibold text-[#222222] leading-tight mb-2">
                           {group.category}
@@ -372,8 +372,8 @@ export const PhotoTourModal: React.FC<PhotoTourModalProps> = ({
                       </div>
                     </div>
 
-                    {/* ── Right: Photo Feed for this Group ── */}
-                    <div className="flex-1 min-w-0 space-y-3">
+                    {/* ── Right: Photo Feed for this Group (50%) ── */}
+                    <div className="flex-1 md:w-1/2 min-w-0 space-y-3">
                       {/* Mobile-only inline title */}
                       <div className="md:hidden mb-3">
                         <h3 className="text-2xl font-semibold text-[#222222]">{group.category}</h3>

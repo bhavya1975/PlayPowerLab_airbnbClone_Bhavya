@@ -21,7 +21,7 @@ export const Header: React.FC<HeaderProps> = ({
       className="relative z-50 bg-white border-b border-[#DDDDDD]"
       role="banner"
     >
-      <div className="max-w-[2520px] mx-auto px-4 sm:px-8 lg:px-10">
+      <div className="max-w-[1120px] mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-[80px] gap-4">
           {/* Left: Logo */}
           <div className="flex-shrink-0 w-[120px] lg:w-[160px]">

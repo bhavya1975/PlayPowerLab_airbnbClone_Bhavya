@@ -328,14 +328,11 @@ export default function HomePage() {
             <div className="py-6 border-b border-[#DDDDDD]">
               <h3 className="text-xl font-semibold text-[#222222] mb-5">Where you&apos;ll sleep</h3>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-                <div
-                  onClick={() => openPhotoTour('bedroom')}
-                  className="rounded-2xl overflow-hidden border border-[#DDDDDD] cursor-pointer group"
-                >
+                <div className="rounded-2xl overflow-hidden border border-[#DDDDDD]">
                   <img
-                    src="https://images.unsplash.com/photo-1631049552057-403cdb8f0658?auto=format&fit=crop&w=600&q=80"
+                    src="https://images.unsplash.com/photo-1554995207-c18c203602cb?auto=format&fit=crop&w=600&q=80"
                     alt="Bedroom"
-                    className="w-full aspect-[16/10] object-cover group-hover:scale-105 transition-transform duration-300"
+                    className="w-full aspect-[16/10] object-cover"
                     loading="lazy"
                   />
                   <div className="p-4">
@@ -344,14 +341,11 @@ export default function HomePage() {
                   </div>
                 </div>
 
-                <div
-                  onClick={() => openPhotoTour('living-room-1')}
-                  className="rounded-2xl overflow-hidden border border-[#DDDDDD] cursor-pointer group"
-                >
+                <div className="rounded-2xl overflow-hidden border border-[#DDDDDD]">
                   <img
-                    src="https://images.unsplash.com/photo-1631049307264-da0ec9d70304?auto=format&fit=crop&w=600&q=80"
+                    src="https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=600&q=80"
                     alt="Living room"
-                    className="w-full aspect-[16/10] object-cover group-hover:scale-105 transition-transform duration-300"
+                    className="w-full aspect-[16/10] object-cover"
                     loading="lazy"
                   />
                   <div className="p-4">

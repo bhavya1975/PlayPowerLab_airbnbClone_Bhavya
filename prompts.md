@@ -1,4 +1,4 @@
-so yout task is to https://airbnb-clone-umber-two.vercel.app/ clone this website there is no need to make backend but the whole file structure and endpoints should be in a way that it should be scalable, So that i can add new feature and pages if needed basically it should be scalalble and follows open close principle if any of the .md file skills matches what subtask you are currently doing then you should follow the instructure in the and references there are so many skills that i have added similaly in agents too so use it when needed Primary Focus: Absolute visual and behavioral fidelity, smooth animations/transitions, keyboard accessibility, and clean project architecture. No direct codebase duplication. breakdown entire project in different phases around 5-6 and before starting every phase give me the plan in .md file and put it in planning folder based upon your plan i will state my requirements if there are any or changes that i think in your plan so go on.
+Your task is to https://airbnb-clone-umber-two.vercel.app/ clone this website there is no need to make backend but the whole file structure and endpoints should be in a way that it should be scalable, So that i can add new feature and pages if needed basically it should be scalalble and follows open close principle if any of the .md file skills matches what subtask you are currently doing then you should follow the instructure in the and references there are so many skills that i have added similaly in agents too so use it when needed Primary Focus: Absolute visual and behavioral fidelity, smooth animations/transitions, keyboard accessibility, and clean project architecture. No direct codebase duplication. breakdown entire project in different phases around 5-6 and before starting every phase give me the plan in .md file and put it in planning folder based upon your plan i will state my requirements if there are any or changes that i think in your plan so go on.
 
 
 and you won't be able to see the website as there is bot restriction so i am here to providde you with screenshot so here are list of screenshot for the page
@@ -180,3 +180,31 @@ Hey AntiGravity, let's fix the Lightbox overlay component. Right now it has a da
 - **Center Image**: Center the main photo gracefully in the middle of the viewport with responsive scaling (`max-h-[85vh]`).
 - **Navigation Controls**: Position subtle left (`<`) and right (`>`) circular navigation buttons vertically centered on the left and right outer edges of the screen. 
 - Enable keyboard arrow keys (`ArrowLeft`, `ArrowRight`) to cycle through photos seamlessly.
+
+-----------------------------
+
+in the main airbnb loko 
+you have added the icon two times 
+before and after
+just put it one which is first icon
+
+so it would look like
+( airbnb logo )airbnb 
+
+-------------------------------
+
+1) in the photo tour 
+you have made images section more proportion 
+
+so both should be 50-50%
+
+2) also airbnb loko is so to the left 
+it should be allign with the image 
+similarly the left side header too
+
+3) more stay-by only have 5 images add more 3 images there 
+
+4) in where you will sleep 
+it opens the image 
+which is in the photo tour but they are diffferent photos 
+so add 2 different photo there and it should not open
