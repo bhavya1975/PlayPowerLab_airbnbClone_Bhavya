@@ -208,3 +208,67 @@ similarly the left side header too
 it opens the image 
 which is in the photo tour but they are diffferent photos 
 so add 2 different photo there and it should not open
+
+--------------------------
+
+What this place offers
+Bathroom
+Hairdryer
+Cleaning products
+Shampoo
+Hot water
+Shower gel
+Bedroom and laundry
+Washing machine
+Hangers
+Bed linen
+Room-darkening blinds
+Iron
+Clothes storage
+Cot
+Entertainment
+TV
+Family
+Cot
+Heating and cooling
+Air conditioning
+Ceiling fan
+Home safety
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Fridge
+Freezer
+Microwave
+Cooking basics
+Crockery and cutlery
+Kettle
+Coffee
+Wine glasses
+Toaster
+Blender
+Cooker
+Location features
+Private entrance
+Outdoor
+Patio or balcony
+Outdoor dining area
+Parking and facilities
+Free parking on premises
+Pool
+Hot tub
+Gym
+Services
+Pets allowed
+Cleaning available during stay
+Long-term stays allowed
+Self check-in
+
+add this in show 50 aminities with corresponding icons 
+
+when someone clicks show 50
